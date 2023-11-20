@@ -1,0 +1,4 @@
+def pipe_fix(nums):(1,2,4,5,7,8)
+    first = nums[0]
+    last = nums[-1]
+    print list(range(first, last+1))

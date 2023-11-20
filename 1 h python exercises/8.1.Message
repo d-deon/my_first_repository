@@ -1,0 +1,4 @@
+def display_message():
+ """ Notice on learninng functions. """
+ print("I'm learning about funnctions in a different light and it's great")
+display_message()

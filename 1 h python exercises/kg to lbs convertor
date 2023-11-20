@@ -1,0 +1,8 @@
+weight= input("Weight: ")
+choice= input ("(K)g or (L)bs ")
+K= float(weight)*2.2
+L= float(weight)/ 2.2
+if choice == "K":
+    print("Weight in Lbs: ", (K))
+elif choice == "L":
+    print("Weight in Kg: ", (L))

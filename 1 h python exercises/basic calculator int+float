@@ -1,0 +1,22 @@
+first_number= input("Enter your first number: ")
+print(first_number)
+second_number= input("Enter your second number: ")
+print(second_number)
+sum= (float(first_number) + int(second_number))
+print("your sum is: ", sum)
+
+or simpler
+
+first = float(input("First: "))
+second = float(input("Second: "))
+sum = first+second
+print("Sum is: "+str(sum))
+
+
+
+
+
+
+
+
+
